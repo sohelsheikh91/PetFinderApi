@@ -1,4 +1,4 @@
-package com.udacity.DogRESTApi;
+package com.udacity.AnimalRESTApi;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DogRestApiApplicationTests {
+public class AnimalRestApiApplicationTests {
 
 	@Test
 	public void contextLoads() {
